@@ -6,4 +6,4 @@ Different materials including Ag Al Zn Cn Fe Pb with different diameters are con
 
 Two aspects, rated current and melting time, are analyzed.
 
-The outcomes are in the Excel called "保险丝".
+The outcomes are in the Excel called "保险丝.xlsx".
